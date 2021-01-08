@@ -2,4 +2,4 @@
 
 [Page 1](page1.md)
 
-![alt text](https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2019/04/eso1644bsmall__w770.jpg){:height="24px" width="48px"}
+![alt text](https://d1fmx1rbmqrxrr.cloudfront.net/cnet/optim/i/edit/2019/04/eso1644bsmall__w770.jpg =250x250)
